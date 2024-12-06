@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "188427570179",
+    "project_id": "banana-game-d3add",
+    "storage_bucket": "banana-game-d3add.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188427570179:android:16dcf5868020ef39541236",
+        "android_client_info": {
+          "package_name": "com.justin.banana_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188427570179-3bduc0dimv6mb96olos1lkuqai3a2ed6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.justin.banana_game",
+            "certificate_hash": "3e5eb600434e35a5a723192b7e01084fc684a5ad"
+          }
+        },
+        {
+          "client_id": "188427570179-ivh8tghaelu0u7pt82k3fggot60ou6b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-9cbC5ips42OknOEga_00WN6K_2q5by8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188427570179-ivh8tghaelu0u7pt82k3fggot60ou6b1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
