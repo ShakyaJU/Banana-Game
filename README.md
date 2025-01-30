@@ -1,4 +1,4 @@
-# Banana Game 
+<h1 style="text-align: center;">Banana Game</h1>
 
 <p align="center">
   <img src="./Banana Game Screenshots/PlayGame.png" alt="Banana Game" width="300" height="600">
