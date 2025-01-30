@@ -16,8 +16,8 @@
   <img src="./Banana Game Screenshots/Signup page.png" alt="Signup Page Screen" width="200" height="400">
   <img src="./Banana Game Screenshots/Game interface.png" alt="Game Interface Screen" width="200" height="400">
   <img src="./Banana Game Screenshots/Enter no in game.png" alt="Enter Number" width="200" height="400">
-  <img src="./Banana Game Screenshots/Correct answer.png" alt="Correct Answer" width="200" height="400">
   <img src="./Banana Game Screenshots/Wrong answer.png" alt="Wrong Answer" width="200" height="400">
+  <img src="./Banana Game Screenshots/Correct answer.png" alt="Correct Answer" width="200" height="400">
   </p>
 
 ## How to play the game: 
