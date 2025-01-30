@@ -26,7 +26,7 @@ The rules of this game is explained in the screenshot and is also available in-g
 </p>
 
 ## Download the Game :
-You can download the android apk of the game by clicking <a href= "[https://drive.google.com/file/d/1W8vOwiQWnPLM0oNbGtAs_Ip48IFc9AKH/view?usp=sharing](https://drive.google.com/file/d/1B-ZKoV7cC-rQmz0ADbRTs-Nw5sweY1qo/view?usp=sharing)"> here </a>
+You can download the android apk of the game by clicking <a href= "https://drive.google.com/file/d/1W8vOwiQWnPLM0oNbGtAs_Ip48IFc9AKH/view?usp=sharing](https://drive.google.com/file/d/1B-ZKoV7cC-rQmz0ADbRTs-Nw5sweY1qo/view?usp=sharing)"> here </a>
 <br>I hope you Enjoy the game ! 
 
 ## App Demonstration & Overview:
