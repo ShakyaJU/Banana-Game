@@ -62,12 +62,35 @@ To get started with the Banana Game, follow these steps:
 3. Firebase Account (for authentication and data storage) 
 
 ## Project Structure:
-
-1. lib/: Contains the main Dart code for the application. 
-2. assets/: Includes static assets like images and fonts. 
-3. test/: Unit and widget tests.
-4. Banana Game Screenshots/ : contains the game screenshots.
-
-## 
-Justin Shakya                                                             
+<pre>
+│── Banana-Game/
+├── assets/                       # Folder for game assets (images, icons, fonts, etc.)
+│   ├── fonts/                    # UI elements and game-related fonts
+│   ├── images/                   # UI elements and game-related images
+│
+├── lib/                          # Main source code directory
+│   ├── main.dart                 # Entry point of the Flutter application
+│   ├── game_interface/           # UI and game-related screens
+│   │   ├── home_screen.dart      # Main home screen of the game
+│   │   ├── play_game.dart        # Game screen where the user plays
+│   ├── google_authentication/    # Handles user authentication
+│   │   ├── login_screen.dart     # Login screen with Google Sign-In
+│   │   ├── google_sign_in.dart   # Manages Google authentication
+│   ├── registration/             # Handles user account registration
+│   │   ├── signup.dart           # Sign-up screen using Firebase Authentication
+│   ├── models/                   # Data models for the game
+│   │   ├── user_model.dart       # Stores user-related data
+│   │   ├── api_model.dart        # Model for handling API responses
+│   ├── firebase_services/        # Backend and API communication
+│   │   ├── firebase_auth_methods.dart # Firebase authentication logic
+│   │   ├── api_service.dart      # Manages API calls (Banana API integration)
+│   ├── custom_widgets/           # Custom reusable widgets
+│   │   ├── custom_button.dart    # Reusable button widget
+│   │   ├── custom_snackbar.dart  # Custom Snackbar for notifications
+│   │   ├── custom_loading.dart   # Circular progress bar
+│   │   ├── custom_textfield.dart # Styled text input fields
+│
+└── pubspec.yaml                  # Flutter dependencies and project configuration
+</pre>
+                                                          
                      
