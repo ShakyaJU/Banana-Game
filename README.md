@@ -25,18 +25,13 @@ The rules of this game is explained in the screenshot and is also available in-g
    
 </p>
 
-
 ## Download the Game :
-You can download the android apk of the game <a href= "https://drive.google.com/file/d/1W8vOwiQWnPLM0oNbGtAs_Ip48IFc9AKH/view?usp=sharing"> here </a>
+You can download the android apk of the game by clicking <a href= "[https://drive.google.com/file/d/1W8vOwiQWnPLM0oNbGtAs_Ip48IFc9AKH/view?usp=sharing](https://drive.google.com/file/d/1B-ZKoV7cC-rQmz0ADbRTs-Nw5sweY1qo/view?usp=sharing)"> here </a>
 <br>I hope you Enjoy the game ! 
 
-## Support Documentation:
+## App Demonstration & Overview:
 
-You can find the support documentation <a href= "https://drive.google.com/file/d/1LMVBpGTKXnUTs39p-QP3cq69WYFmriW5/view?usp=sharing"> here </a>
-
-## Code Documentation:
-
-You can visit the code documentation site <a href="https://ShakyaJU.github.io/"> here </a>
+You can watch a demonstration of the app with a thorough explanation of the four software engineering principles applied in this game by clicking <a href="https://drive.google.com/file/d/1pBqSbSxAeDzHsQLHCUZLDYuQfzmjo4v2/view?usp=sharing"> here </a>
 
 ## Running the Code:
 
