@@ -1,7 +1,7 @@
 # Banana Game
 
 <p align="center">
-  <img src="./Banana Game Screenshots/PlayGame.png" alt="Banana Game" width="300" height="600">
+  <img src="./Banana Game Screenshots/PlayGame.png" alt="Banana Game" width="250" height="500">
 </p>
 
 Banana Game is a mobile application developed as a project for the University of Bedfordshire. Designed for an enjoyable and immersive experience, it offers fun and engaging gameplay for users. The project emphasizes four key software engineering principles: Low Coupling & High Cohesion, Event-Driven Programming, Interoperability, and Virtual Identity.
@@ -9,18 +9,20 @@ Banana Game is a mobile application developed as a project for the University of
 ## Game Screenshots:
 
   <p align="center">
-  <img src="./Banana Game Screenshots/PlayGame.png" alt="Main Screen" width="300" height="600">
-  <img src="./Banana Game Screenshots/Login page.png" alt="Login Page Screen" width="300" height="600">
-  <img src="./Banana Game Screenshots/Signup page.png" alt="Signup Page Screen" width="300" height="600">
-  <img src="./Banana Game Screenshots/Game interface.png" alt="Game Interface Screen" width="300" height="600">
-  <img src="./Banana Game Screenshots/Correct answer.png" alt="Correct Answer" width="300" height="600">
-  <img src="./Banana Game Screenshots/Wrong answer.png" alt="Wrong Answer" width="300" height="600">
+  <img src="./Banana Game Screenshots/PlayGame.png" alt="Main Screen" width="200" height="400">
+  <img src="./Banana Game Screenshots/Login page.png" alt="Login Page Screen" width="200" height="400">
+  <img src="./Banana Game Screenshots/Google signin.png" alt="Google Signin" width="200" height="400">
+  <img src="./Banana Game Screenshots/Signup page.png" alt="Signup Page Screen" width="200" height="400">
+  <img src="./Banana Game Screenshots/Game interface.png" alt="Game Interface Screen" width="200" height="400">
+  <img src="./Banana Game Screenshots/Enter no in game.png" alt="Enter Number" width="200" height="400">
+  <img src="./Banana Game Screenshots/Correct answer.png" alt="Correct Answer" width="200" height="400">
+  <img src="./Banana Game Screenshots/Wrong answer.png" alt="Wrong Answer" width="200" height="400">
   </p>
 
 ## How to play the game: 
 The rules of the game are explained in the screenshot below and can also be accessed in-game! 
 <p align="center">
-  <img src="./Banana Game Screenshots/How to play.png" alt="Game Rules" width="300" height="600">
+  <img src="./Banana Game Screenshots/How to play.png" alt="Game Rules" width="250" height="500">
    
 </p>
 
