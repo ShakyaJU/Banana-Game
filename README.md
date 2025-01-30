@@ -65,7 +65,7 @@ To get started with the Banana Game, follow these steps:
 1. lib/: Contains the main Dart code for the application. 
 2. assets/: Includes static assets like images and fonts. 
 3. test/: Unit and widget tests.
-4. Game ScreenShots/ : contains the game screenshots.
+4. Banana Game Screenshots/ : contains the game screenshots.
 
 ## 
 Justin Shakya                                                             
