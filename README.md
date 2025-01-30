@@ -1,11 +1,10 @@
-<h1 style="text-align: center;">Banana Game</h1>
+# Banana Game
 
 <p align="center">
   <img src="./Banana Game Screenshots/PlayGame.png" alt="Banana Game" width="300" height="600">
 </p>
 
-Banana Game is a mobile application developed as a project for the University of Bedfordshire. It's a fun and engaging game for the users to enjoy.
-The main objective of the project was to focus on four software engineering principles(Low Coupling High Cohesion, Event Driven Programming, Interoperability and Virtual Identity).
+Banana Game is a mobile application developed as a project for the University of Bedfordshire. Designed for an enjoyable and immersive experience, it offers fun and engaging gameplay for users. The project emphasizes four key software engineering principles: Low Coupling & High Cohesion, Event-Driven Programming, Interoperability, and Virtual Identity.
 
 ## Game Screenshots:
 
@@ -19,15 +18,15 @@ The main objective of the project was to focus on four software engineering prin
   </p>
 
 ## How to play the game: 
-The rules of this game is explained in the screenshot and is also available in-game! 
+The rules of the game are explained in the screenshot below and can also be accessed in-game! 
 <p align="center">
   <img src="./Banana Game Screenshots/How to play.png" alt="Game Rules" width="300" height="600">
    
 </p>
 
 ## Download the Game :
-You can download the android apk of the game by clicking <a href= "https://drive.google.com/file/d/1W8vOwiQWnPLM0oNbGtAs_Ip48IFc9AKH/view?usp=sharing](https://drive.google.com/file/d/1B-ZKoV7cC-rQmz0ADbRTs-Nw5sweY1qo/view?usp=sharing)"> here </a>
-<br>I hope you Enjoy the game ! 
+You can download the Android APK of the game by clicking <a href= "https://drive.google.com/file/d/1W8vOwiQWnPLM0oNbGtAs_Ip48IFc9AKH/view?usp=sharing](https://drive.google.com/file/d/1B-ZKoV7cC-rQmz0ADbRTs-Nw5sweY1qo/view?usp=sharing)"> here </a>
+<br>Enjoy the game! 
 
 ## App Demonstration & Overview:
 
