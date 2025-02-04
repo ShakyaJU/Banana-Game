@@ -1,6 +1,5 @@
 <h1 align="center">Banana Game</h1>
 
----
 
 <h3 style="text-align: justify;">Banana Game is a mobile application developed as a project for the Comparative Integrated System(CIS) course. Designed for an enjoyable and immersive experience, it offers fun and engaging mathematical gameplay for users. The project emphasizes four key software engineering principles: Low Coupling & High Cohesion, Event-Driven Programming, Interoperability, and Virtual Identity.</h3>
 
